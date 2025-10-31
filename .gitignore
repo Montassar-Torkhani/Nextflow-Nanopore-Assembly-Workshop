@@ -1,0 +1,19 @@
+# Nextflow work dirs and temp files
+work/
+.cache/
+.nextflow*
+*.log
+
+# Conda and environment cache
+conda/
+__pycache__/
+*.pyc
+
+# Large intermediate outputs
+results/*
+!results/report.html
+!results/timeline.html
+
+# OS files
+.DS_Store
+Thumbs.db
