@@ -1,0 +1,5 @@
+# Treat Nextflow scripts as Nextflow
+*.nf linguist-language=Nextflow
+
+# Ignore HTML files from language stats
+*.html linguist-detectable=false
