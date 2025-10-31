@@ -48,6 +48,11 @@ project/
 This pipeline uses **Conda** for reproducibility. 
 The environment file is located at: `envs/environment.yml`
 
+To create the environment:
+```bash
+conda env create -f envs/environment.yml
+```
+
 To activate the environment:
 ```bash
 conda activate nf
@@ -78,7 +83,7 @@ data/sim_nanopore_5x.fastq
 
 **Nextflow Ambassador in Tunisia:**
 - Dr. Houcemeddine Othman
-- Mr. Firas Zemzmi
+- Mr. Firas Zemzem
 
 **Workshop Coordinator:**
 - Dr. Fatma Guerfali
