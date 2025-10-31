@@ -462,4 +462,3 @@ dependencies:
   - zstandard=0.23.0
   - zstd=1.5.6
 
-prefix: "/home/montassar/anaconda3/envs/nf"
