@@ -82,10 +82,9 @@ data/sim_nanopore_5x.fastq
 ## Acknowledgments
 
 **Nextflow Ambassador in Tunisia:**
-- Dr. Houcemeddine Othman
-- Mr. Firas Zemzem
+*[**Dr. Houcemeddine Othman**](https://github.com/hothman) 
+*[**Mr. Firas Zemzem**](https://github.com/Zemzemfiras1) 
 
 **Workshop Coordinator:**
-- Dr. Fatma Guerfali
-
+*[**Dr. Fatma Guerfali**]
 Special thanks to all workshop participants.
